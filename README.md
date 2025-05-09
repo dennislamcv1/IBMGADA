@@ -1,5 +1,5 @@
 # IBMGADA
-## Generative AI for Data Analysts Specialization
+## Generative AI for Data Analysts Specialization (3 course series)
 
 The demand for professionals with a knowledge of artificial intelligence (AI) is on the rise. There is a revolution in the way organizations make decisions on the basis of generative AI data analysis. This specialization brings forth real-world generative AI use cases and popular generative AI models and tools for text, code, image, audio, and video generation. 
 
